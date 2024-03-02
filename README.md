@@ -42,7 +42,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to [Your Name](mailto:rakshithg.6113@gmail.com).
+For any questions or suggestions, feel free to reach out to [E-mail](mailto:rakshithg.6113@gmail.com).
 
 
 
